@@ -11,4 +11,4 @@ public class Main {
         counterLogic.setCounterLogic();
         counterApp.printCounterEnd();
     }
-}Sber
+}
